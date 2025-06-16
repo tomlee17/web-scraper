@@ -1,0 +1,517 @@
+[
+    {
+        "address": "18 Holland Grove Road",
+        "price_per_month": 6950,
+        "nearest_mrt": "EW22 Dover MRT Station"
+    },
+    {
+        "address": "7 Ardmore Park",
+        "price_per_month": 28000,
+        "nearest_mrt": "NS22 Orchard MRT Station"
+    },
+    {
+        "address": "50 Flora Drive",
+        "price_per_month": 3400,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "222A Sumang Lane",
+        "price_per_month": 2600,
+        "nearest_mrt": "PW7 Soo Teck LRT Station"
+    },
+    {
+        "address": "",
+        "price_per_month": 2800,
+        "nearest_mrt": "DT22 Jalan Besar MRT Station"
+    },
+    {
+        "address": "204 Jalan Eunos",
+        "price_per_month": 3100,
+        "nearest_mrt": "DT28 Kaki Bukit MRT Station"
+    },
+    {
+        "address": "Dunearn Road",
+        "price_per_month": 1600,
+        "nearest_mrt": "NS21 Newton MRT Station"
+    },
+    {
+        "address": "620 Bukit Panjang Ring Road",
+        "price_per_month": 3200,
+        "nearest_mrt": "BP12 Jelapang LRT Station"
+    },
+    {
+        "address": "20 Margaret Drive",
+        "price_per_month": 6200,
+        "nearest_mrt": "EW19 Queenstown MRT Station"
+    },
+    {
+        "address": "115 Pasir Ris Grove",
+        "price_per_month": 3600,
+        "nearest_mrt": "CP1 Pasir Ris MRT Station"
+    },
+    {
+        "address": "450C Sengkang West Way",
+        "price_per_month": 2500,
+        "nearest_mrt": "SW5 Fernvale LRT Station"
+    },
+    {
+        "address": "7 Siglap Road",
+        "price_per_month": 6000,
+        "nearest_mrt": "TE28 Siglap MRT Station"
+    },
+    {
+        "address": "Near Stamford American School",
+        "price_per_month": 13800,
+        "nearest_mrt": "CC11 Tai Seng MRT Station"
+    },
+    {
+        "address": "35 Kelantan Lane",
+        "price_per_month": 2300,
+        "nearest_mrt": "DT22 Jalan Besar MRT Station"
+    },
+    {
+        "address": "Oei Tiong Ham Park",
+        "price_per_month": 28000,
+        "nearest_mrt": "CC21 Holland Village MRT Station"
+    },
+    {
+        "address": "420 Canberra Road",
+        "price_per_month": 900,
+        "nearest_mrt": "NS11 Sembawang MRT Station"
+    },
+    {
+        "address": "213 Guillemard Road",
+        "price_per_month": 3000,
+        "nearest_mrt": "EW9 Aljunied MRT Station"
+    },
+    {
+        "address": "601D Punggol Central",
+        "price_per_month": 950,
+        "nearest_mrt": "PE7 Damai LRT Station"
+    },
+    {
+        "address": "21 Yishun Close",
+        "price_per_month": 1000,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "107 Petir Road",
+        "price_per_month": 2500,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "5 Leedon Heights",
+        "price_per_month": 9600,
+        "nearest_mrt": "CC20 Farrer Road MRT Station"
+    },
+    {
+        "address": "467 River Valley Road",
+        "price_per_month": 6300,
+        "nearest_mrt": "TE15 Great World MRT Station"
+    },
+    {
+        "address": "Spottiswoode Park Road",
+        "price_per_month": 3600,
+        "nearest_mrt": "EW16 Outram Park MRT Station"
+    },
+    {
+        "address": "Spottiswoode Park Road",
+        "price_per_month": 3680,
+        "nearest_mrt": "EW16 Outram Park MRT Station"
+    },
+    {
+        "address": "Spottiswoode Park Road",
+        "price_per_month": 3500,
+        "nearest_mrt": "EW16 Outram Park MRT Station"
+    },
+    {
+        "address": "21 Bidadari Park Drive",
+        "price_per_month": 8800,
+        "nearest_mrt": "NE11 Woodleigh MRT Station"
+    },
+    {
+        "address": "",
+        "price_per_month": 11000,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "111 Pasir Ris Grove",
+        "price_per_month": 2800,
+        "nearest_mrt": "CP1 Pasir Ris MRT Station"
+    },
+    {
+        "address": "180 Yung Sheng Road",
+        "price_per_month": 800,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "352 Balestier Road",
+        "price_per_month": 2000,
+        "nearest_mrt": "NS19 Toa Payoh MRT Station"
+    },
+    {
+        "address": "215A Compassvale Drive",
+        "price_per_month": 3000,
+        "nearest_mrt": "NE16 Sengkang MRT Station"
+    },
+    {
+        "address": "Mugliston Gradens",
+        "price_per_month": 8350,
+        "nearest_mrt": "SW5 Fernvale LRT Station"
+    },
+    {
+        "address": "115B Yishun Ring Road",
+        "price_per_month": 3650,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "604 Elias Road",
+        "price_per_month": 830,
+        "nearest_mrt": "CP2 Elias MRT Station"
+    },
+    {
+        "address": "102 Aljunied Crescent",
+        "price_per_month": 3500,
+        "nearest_mrt": "EW9 Aljunied MRT Station"
+    },
+    {
+        "address": "963 Upper Changi Road North",
+        "price_per_month": 3500,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "18 Tan Quee Lan Street",
+        "price_per_month": 7300,
+        "nearest_mrt": "EW12 Bugis MRT Station"
+    },
+    {
+        "address": "2 Holland Avenue",
+        "price_per_month": 4000,
+        "nearest_mrt": "CC21 Holland Village MRT Station"
+    },
+    {
+        "address": "60 Potong Pasir Avenue 1",
+        "price_per_month": 4600,
+        "nearest_mrt": "NE10 Potong Pasir MRT Station"
+    },
+    {
+        "address": "371 Bukit Batok Street 31",
+        "price_per_month": 3100,
+        "nearest_mrt": "NS3 Bukit Gombak MRT Station"
+    },
+    {
+        "address": "97 Hougang Avenue 2",
+        "price_per_month": 3300,
+        "nearest_mrt": "NE14 Hougang MRT Station"
+    },
+    {
+        "address": "10 Suffolk Road",
+        "price_per_month": 4700,
+        "nearest_mrt": "NS20 Novena MRT Station"
+    },
+    {
+        "address": "38 Chay Yan Street",
+        "price_per_month": 8000,
+        "nearest_mrt": "EW17 Tiong Bahru MRT Station"
+    },
+    {
+        "address": "Oei Tiong Ham Park",
+        "price_per_month": 28000,
+        "nearest_mrt": "CC21 Holland Village MRT Station"
+    },
+    {
+        "address": "3 Cuscaden Walk",
+        "price_per_month": 5000,
+        "nearest_mrt": "NS22 Orchard MRT Station"
+    },
+    {
+        "address": "Keris Drive / Marine Terrace MRT / Parkway Parade",
+        "price_per_month": 15000,
+        "nearest_mrt": "TE28 Siglap MRT Station"
+    },
+    {
+        "address": "2A Boon Tiong Road",
+        "price_per_month": 5500,
+        "nearest_mrt": "TE16 Havelock MRT Station"
+    },
+    {
+        "address": "438B Sengkang West Avenue",
+        "price_per_month": 3400,
+        "nearest_mrt": "SW5 Fernvale LRT Station"
+    },
+    {
+        "address": "13 Holland Drive",
+        "price_per_month": 3550,
+        "nearest_mrt": "EW21 Buona Vista MRT Station"
+    },
+    {
+        "address": "18 Marina Boulevard",
+        "price_per_month": 5900,
+        "nearest_mrt": "DT17 Downtown MRT Station"
+    },
+    {
+        "address": "301 Ang Mo Kio Avenue 3",
+        "price_per_month": 750,
+        "nearest_mrt": "CR12 Teck Ghee MRT Station"
+    },
+    {
+        "address": "Namly Crescent",
+        "price_per_month": 9800,
+        "nearest_mrt": "DT7 Sixth Avenue MRT Station"
+    },
+    {
+        "address": "31 Punggol Field",
+        "price_per_month": 3900,
+        "nearest_mrt": "PE1 Cove LRT Station"
+    },
+    {
+        "address": "41 Simei Street 4",
+        "price_per_month": 5499,
+        "nearest_mrt": "EW3 Simei MRT Station"
+    },
+    {
+        "address": "93 Rosewood Drive",
+        "price_per_month": 2889,
+        "nearest_mrt": "TE2 Woodlands MRT Station"
+    },
+    {
+        "address": "48 Faber Walk",
+        "price_per_month": 4500,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "",
+        "price_per_month": 68000,
+        "nearest_mrt": "CC20 Farrer Road MRT Station"
+    },
+    {
+        "address": "Sunset",
+        "price_per_month": 35000,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "Bukit Timah Road",
+        "price_per_month": 45000,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "豪华黑白屋出租",
+        "price_per_month": 50000,
+        "nearest_mrt": "TE10 Mount Pleasant MRT Station"
+    },
+    {
+        "address": "Greenleaf",
+        "price_per_month": 23200,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "",
+        "price_per_month": 16000,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "50 Commonwealth Drive",
+        "price_per_month": 4000,
+        "nearest_mrt": "EW20 Commonwealth MRT Station"
+    },
+    {
+        "address": "1 Hacienda Grove",
+        "price_per_month": 8000,
+        "nearest_mrt": "TE28 Siglap MRT Station"
+    },
+    {
+        "address": "11 Eunos Crescent",
+        "price_per_month": 3850,
+        "nearest_mrt": "EW7 Eunos MRT Station"
+    },
+    {
+        "address": "532 Jurong West Street 52",
+        "price_per_month": 850,
+        "nearest_mrt": "JS5 Corporation MRT Station"
+    },
+    {
+        "address": "68 Potong Pasir Avenue 1",
+        "price_per_month": 3900,
+        "nearest_mrt": "NE10 Potong Pasir MRT Station"
+    },
+    {
+        "address": "119 Ho Ching Road",
+        "price_per_month": 449,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "673 Woodlands Drive 71",
+        "price_per_month": 3600,
+        "nearest_mrt": "NS10 Admiralty MRT Station"
+    },
+    {
+        "address": "One Tree Hill / Mount Sinai / Jalan Jelita",
+        "price_per_month": 19999,
+        "nearest_mrt": "NS23 Somerset MRT Station"
+    },
+    {
+        "address": "6 Irwell Hill",
+        "price_per_month": 4800,
+        "nearest_mrt": "TE15 Great World MRT Station"
+    },
+    {
+        "address": "32 Kovan Road",
+        "price_per_month": 6000,
+        "nearest_mrt": "NE13 Kovan MRT Station"
+    },
+    {
+        "address": "114B Arthur Road",
+        "price_per_month": 5200,
+        "nearest_mrt": "TE24 Katong Park MRT Station"
+    },
+    {
+        "address": "",
+        "price_per_month": 22000,
+        "nearest_mrt": "TE28 Siglap MRT Station"
+    },
+    {
+        "address": "9 Cantonment Close",
+        "price_per_month": 5400,
+        "nearest_mrt": "CC31 Cantonment MRT Station"
+    },
+    {
+        "address": "10 Siglap Link",
+        "price_per_month": 5500,
+        "nearest_mrt": "TE28 Siglap MRT Station"
+    },
+    {
+        "address": "33 Keppel Bay View",
+        "price_per_month": 8500,
+        "nearest_mrt": "CC28 Telok Blangah MRT Station"
+    },
+    {
+        "address": "890B Woodlands Drive 50",
+        "price_per_month": 3300,
+        "nearest_mrt": "TE2 Woodlands MRT Station"
+    },
+    {
+        "address": "",
+        "price_per_month": 2500,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "11 Silat Avenue",
+        "price_per_month": 4600,
+        "nearest_mrt": "CC31 Cantonment MRT Station"
+    },
+    {
+        "address": "28 West Coast Road",
+        "price_per_month": 1850,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "65 Punggol Central",
+        "price_per_month": 5800,
+        "nearest_mrt": "NE17 Punggol MRT Station"
+    },
+    {
+        "address": "27 Bendemeer Road",
+        "price_per_month": 850,
+        "nearest_mrt": "NE9 Boon Keng MRT Station"
+    },
+    {
+        "address": "81 Punggol Central",
+        "price_per_month": 4700,
+        "nearest_mrt": "NE17 Punggol MRT Station"
+    },
+    {
+        "address": "505C Yishun Street 51",
+        "price_per_month": 900,
+        "nearest_mrt": ""
+    },
+    {
+        "address": "Jalan Tanjong",
+        "price_per_month": 11900,
+        "nearest_mrt": "CG Tanah Merah MRT Station"
+    },
+    {
+        "address": "18 Tan Quee Lan Street",
+        "price_per_month": 3950,
+        "nearest_mrt": "EW12 Bugis MRT Station"
+    },
+    {
+        "address": "3 Jiak Kim Street",
+        "price_per_month": 9800,
+        "nearest_mrt": "TE16 Havelock MRT Station"
+    },
+    {
+        "address": "120 Grange Road",
+        "price_per_month": 5500,
+        "nearest_mrt": "TE13 Orchard Boulevard MRT Station"
+    },
+    {
+        "address": "503 Pasir Ris Street 52",
+        "price_per_month": 1200,
+        "nearest_mrt": "CP1 Pasir Ris MRT Station"
+    },
+    {
+        "address": "11 Jalan Mutiara",
+        "price_per_month": 6200,
+        "nearest_mrt": "TE15 Great World MRT Station"
+    },
+    {
+        "address": "70 Shenton Way",
+        "price_per_month": 4900,
+        "nearest_mrt": "CC32 Prince Edward Road MRT Station"
+    },
+    {
+        "address": "1 Keppel Bay View",
+        "price_per_month": 11000,
+        "nearest_mrt": "CC28 Telok Blangah MRT Station"
+    },
+    {
+        "address": "27 Fernvale Road",
+        "price_per_month": 3300,
+        "nearest_mrt": "SW4 Thanggam LRT Station"
+    },
+    {
+        "address": "71 Cairnhill Road",
+        "price_per_month": 18000,
+        "nearest_mrt": "NS21 Newton MRT Station"
+    },
+    {
+        "address": "71 Cairnhill Road",
+        "price_per_month": 8600,
+        "nearest_mrt": "NS21 Newton MRT Station"
+    },
+    {
+        "address": "103 Clementi Street 14",
+        "price_per_month": 4500,
+        "nearest_mrt": "EW23 Clementi MRT Station"
+    },
+    {
+        "address": "147 Hougang Street 11",
+        "price_per_month": 5800,
+        "nearest_mrt": "NE12 Serangoon MRT Station"
+    },
+    {
+        "address": "18 Tan Quee Lan Street",
+        "price_per_month": 3900,
+        "nearest_mrt": "EW12 Bugis MRT Station"
+    },
+    {
+        "address": "",
+        "price_per_month": 24000,
+        "nearest_mrt": "TE11 Stevens MRT Station"
+    },
+    {
+        "address": "269 Bedok South Avenue 3",
+        "price_per_month": 7000,
+        "nearest_mrt": "EW4 Tanah Merah MRT Station"
+    },
+    {
+        "address": "18 Tan Quee Lan Street",
+        "price_per_month": 7500,
+        "nearest_mrt": "EW12 Bugis MRT Station"
+    },
+    {
+        "address": "10 Jurong Lake Link",
+        "price_per_month": 4899,
+        "nearest_mrt": "EW26 Lakeside MRT Station"
+    }
+]

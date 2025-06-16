@@ -22,9 +22,9 @@ const analyze_property_rent_listing = (data: PropertyRentListingData[]) => {
     }
 
     const data_fields_completeness = {
-        address: ((data.length - missing_fields_count.Address) / data.length * 100).toFixed(1),
-        price: ((data.length - missing_fields_count.Price) / data.length * 100).toFixed(1),
-        mrt: ((data.length - missing_fields_count.Mrt) / data.length * 100).toFixed(1),
+        Address: ((data.length - missing_fields_count.Address) / data.length * 100).toFixed(1),
+        Price: ((data.length - missing_fields_count.Price) / data.length * 100).toFixed(1),
+        Mrt: ((data.length - missing_fields_count.Mrt) / data.length * 100).toFixed(1),
     }
 
     console.log('\nCompleteness rates:');
