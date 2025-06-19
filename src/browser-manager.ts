@@ -16,7 +16,6 @@ export class BrowserManager {
             headless: headless, 
             defaultViewport: null,
             args: [
-                '--no-sandbox',
                 '--enable-logging',
                 '--v=1'
             ]
